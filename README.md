@@ -1,14 +1,26 @@
 # Amazon_Vine_Analysis
 
 ## Overview
+The purpose of this project is to analyze Amazon reviews for video games written by members of the paid Amazon Vine program, and determine whether or not these members display positivity bias.
 
 ## Results
 Our analysis yielded the following results:
 
 - Vine reviews:
 
+![paid1](/resources/paid1.PNG)
 
 - Non-Vine reviews:
 
+![unpaid1](/resources/unpaid1.PNG)
 
 ## Summary
+Based on our results, members of the Vine program are more likely to write positive reviews. To further support our findings, we could run an analysis on the other 4 ratings to see how the positive reviews compare to the negative ones. This analysis will look like the following:
+
+- Vine reviews:
+
+![paid2](/resources/paid2.PNG)
+
+- Non-Vine reviews:
+
+![unpaid2](/resources/unpaid2.PNG)
