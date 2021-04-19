@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview
-The purpose of this project is to analyze Amazon reviews for video games written by members of the paid Amazon Vine program, and determine whether or not these members display positivity bias.
+The purpose of this project is to analyze Amazon reviews for video games that were written by members of the paid Amazon Vine program, and determine whether or not these members display positivity bias.
 
 ## Results
 Our analysis yielded the following results:
